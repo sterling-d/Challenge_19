@@ -6,4 +6,4 @@ Recipient's address balance and history:
 
 Transaction details:
 
-<img width="1191" alt="Screen Shot 2022-10-30 at 4 14 58 PM" src="https://user-images.githubusercontent.com/105071493/198906914-d843b2a8-97a9-4592-ae0a-78251c8edde3.png">
+<img width="1188" alt="Screen Shot 2022-10-30 at 4 14 58 PM" src="https://user-images.githubusercontent.com/105071493/198906958-a0029b55-867d-41cf-bb35-599fff874f8f.png">
