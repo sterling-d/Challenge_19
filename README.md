@@ -1,4 +1,70 @@
-# Challenge_19
+# Crypto Asset Transfer Application
+
+This application enables users to send/ receive cryptocurrency between clients and contractors. 
+
+---
+
+## Technologies
+
+This project runs on python 3.7 and includes the following libraries and dependencies:
+
+* streamlit
+* os
+* requests
+* dotenv
+* load_dotenv()
+* bip44
+* Wallet
+* web3
+* Account
+* middleware
+* web3.gas_strategies.time_based
+* medium_gas_price_strategy
+
+---
+
+## Installation Guide 
+
+To use the application you need to install the following dependencies: 
+
+pip install streamlit
+pip install web3==5.17
+pip install eth-tester==0.5.0b3
+pip install mnemonic
+pip install bip44
+
+## Download the Latest Version of Ganache
+
+Follow the instructions on the Ganache download page https://trufflesuite.com/ganache/ to download and install this tool on your local machine.
+
+# Create a Workspace
+
+When you open Ganache, you are presented with two options for creating a workspace: Quickstart Ethereum and New Workspace Ethereum. Click Quickstart Ethereum.
+
+<img width="693" alt="ganache" src="https://user-images.githubusercontent.com/105071493/211078928-5b2a75cc-47ce-4991-853d-b6134ae11b15.png">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Recipient's address balance and history: 
 
